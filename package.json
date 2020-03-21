@@ -1,0 +1,7 @@
+{
+  "name": "cookie-test",
+  "version": "1.0.0",
+  "description": "bbc logic cookie scope test",
+  "main": "index.js",
+  "license": "MIT"
+}

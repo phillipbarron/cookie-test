@@ -3,5 +3,8 @@
   "version": "1.0.0",
   "description": "bbc logic cookie scope test",
   "main": "index.js",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
 }
